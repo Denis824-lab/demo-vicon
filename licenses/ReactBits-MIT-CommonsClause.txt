@@ -1,0 +1,9 @@
+Компоненты Silk, Count Up, Circular Gallery и Masonry — React Bits (https://reactbits.dev, github.com/DavidHDev/react-bits).
+Получены 29.10.2026 из реестра https://reactbits.dev/r/<Имя>-TS-CSS.json. Исходники: islands/src/rb/.
+Лицензия: MIT + Commons Clause License Condition v1.0, Copyright (c) 2026 David Haz.
+Использование в сайте клиента разрешено; продавать, сублицензировать или распространять сами компоненты отдельно — нельзя.
+Текст лицензии: New/Система/portfolio-library/sources/reactbits--FlyingButton/LICENSE.md (тот же автор и репозиторий).
+Зависимости: motion (MIT), @hugeicons/react и @hugeicons/core-free-icons (MIT, бесплатный набор), react, react-dom (MIT).
+Silk и Circular Gallery собственных зависимостей не имеют.
+
+Основа страницы: AstroWind (MIT), commit 14e1a691f80548dcc36370847b1a02c0d0b12821 — см. licenses/AstroWind-MIT.txt.
