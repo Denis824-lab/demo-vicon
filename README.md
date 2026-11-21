@@ -4,6 +4,8 @@
 
 **Демо:** https://denis824-lab.github.io/demo-vicon/
 
+![Первый экран демо-сайта Vicon](preview.png)
+
 ## Основа
 
 - AstroWind (MIT) — шаблон и структура секций;
